@@ -70,7 +70,7 @@ def get_hugging_face_models(model_name: str, task: str, max_length: int= 512, \
 * Don't use Falcon Model locally until you have high computation power machine 
 
 
-# Future Works:
+### Future Works:
 * Try more prompts
 * FineTune models on [dataset](http://nlpprogress.com/english/paraphrase-generation.html) with prompt tuning
 
